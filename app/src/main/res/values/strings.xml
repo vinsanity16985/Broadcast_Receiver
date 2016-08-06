@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Eggs</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1_text">Add 1 Egg</string>
+    <string name="button2_text">Add 2 Eggs</string>
+    <string name="button3_text">Subtract 1 Egg</string>
+    <string name="button4_text">Make Breakfast</string>
+    <string name="my_prefs">My Prefs</string>
+    <string name="num_eggs">num_eggs</string>
+    <string name="add_egg">add egg</string>
+    <string name="add_eggs">add eggs</string>
+    <string name="subtract_egg">subtract egg</string>
+    <string name="make_breakfast">make breakfast</string>
+    <string name="omelets_beginning">"We are having omelets, we have "</string>
+    <string name="omelets_end">" eggs available."</string>
+    <string name="gruel_beginning">"We are having gruel, we have "</string>
+    <string name="gruel_end">" eggs available"</string>
+    <string name="unknown_eggs">Don\'t know how many eggs there are.</string>
+    <string name="notification_title">Project5</string>
+    <string name="notification_text_add1">1 Added!</string>
+    <string name="notification_text_add2">2 Added!</string>
+    <string name="notification_text_sub1">1 Subtracted!</string>
+</resources>
